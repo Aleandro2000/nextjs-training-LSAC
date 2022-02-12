@@ -1,0 +1,25 @@
+{
+  "name": "rick-and-motry",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "next": "12.0.7",
+    "popper.js": "^1.16.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
