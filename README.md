@@ -36,5 +36,7 @@ Mai multe detalii legate de implementare: https://nextjs.org/docs/api-routes/int
 ### Link-uri aditionale
 
 js-cookie: https://www.npmjs.com/package/js-cookie
+
 Formik: https://formik.org/docs/overview
+
 Redux: https://redux.js.org/
